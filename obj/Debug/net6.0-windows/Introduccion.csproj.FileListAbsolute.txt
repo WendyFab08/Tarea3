@@ -1,0 +1,15 @@
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\bin\Debug\net6.0-windows\Introduccion.exe
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\bin\Debug\net6.0-windows\Introduccion.deps.json
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\bin\Debug\net6.0-windows\Introduccion.runtimeconfig.json
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\bin\Debug\net6.0-windows\Introduccion.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\bin\Debug\net6.0-windows\ref\Introduccion.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\bin\Debug\net6.0-windows\Introduccion.pdb
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\ref\Introduccion.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.pdb
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Winforms\Introduccion\obj\Debug\net6.0-windows\Introduccion.genruntimeconfig.cache
